@@ -1,37 +1,27 @@
-# Tetris Game
+# Tetris spel
 
-This project is a simple yet fully functional implementation of the classic Tetris game using pure HTML, CSS, and JavaScript, with no external libraries. It's designed to be lightweight and straightforward, suitable for beginners looking to understand game development with web technologies.
+Je moet blokjes in allerlei vormen in elkaar proberen te laten vallen.  Je moet ervoor zorgen dat je de bovenkant van het speelvak niet raakt. Dat doe je door:
+-Als er één horizontale lijn vol is, dan verdwijnt die lijn en en kun je verder spelen.
 
 ## How to Play
 
-To play the game, follow these steps:
+Hoe moet je het spelen:
 
-1. Clone the repository or download the ZIP file.
-2. If downloaded as a ZIP, unzip the file.
-3. Navigate to the project directory.
-4. Double-click on `play.html` to open the game in your web browser.
+-dubbel-klik op `play.html` om de game te openen in je webbrowsser.
 
 ### Game Controls
 
-- **Enter**: Start the game
-- **Arrow Left**: Move left
-- **Arrow Right**: Move right
-- **Arrow Up**: Rotate the piece
-- **Arrow Down**: Drop the piece faster
-- **Space**: Pause/Resume the game
+- **Enter**: Start het spel
+- **Arrow Left**: Naar links bewegen
+- **Arrow Right**: Naar rechts bewegen
+- **Arrow Up**: Roteer een blokje
+- **Arrow Down**: Laat een bokje vallen
+- **Space**: Pauzeer/Doorgaan met het spel
 
-Enjoy the classic block-stacking game where the goal is to clear as many lines as possible by completing horizontal rows of blocks without any gaps.
 
 ## Features
 
-- Start, pause, and resume gameplay
-- Keyboard controls for moving and rotating Tetris blocks
-- Increasing difficulty as you progress in the game
+- Start, pauzeer, and doorgaan met spelen
+- toetsenbord controls om de tetris blokjes te bewegen en te roteren
+- Het spel wordt steeds moeilijker als je langer in het spel zit
 
-## License
-
-This game is open-sourced under the MIT license. Feel free to fork, modify, and use it as you see fit.
-
-## Contributing
-
-Your contributions are welcome! If you'd like to improve the Tetris game, please feel free to make a pull request.

@@ -1,7 +1,7 @@
 # Tetris spel
 
 Je moet blokjes in allerlei vormen in elkaar proberen te laten vallen.  Je moet ervoor zorgen dat je de bovenkant van het speelvak niet raakt. Dat doe je door:
-#-Als er één horizontale lijn vol is, dan verdwijnt die lijn en en kun je verder spelen.
+# -Als er één horizontale lijn vol is, dan verdwijnt die lijn en en kun je verder spelen.
 
 ## How to Play
 
